@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">I work whit these tecnologies for now:</h4>
+<h3 align="left">I work whit these tecnologies for now:</h3>
 
 ###
 
